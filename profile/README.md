@@ -1,4 +1,4 @@
-## Hi there 👋
+## Center for Digital Humanities at Saint Louis University  👋
 
 <!--
 
