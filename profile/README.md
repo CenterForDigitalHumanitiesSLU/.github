@@ -1,4 +1,4 @@
-## Center for Digital Humanities at Saint Louis University  👋
+## Center for Digital Humanities at Saint Louis University
 
 <!--
 
